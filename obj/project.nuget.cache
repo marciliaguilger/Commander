@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "gq+Xm2jyujvBOg4ejC6A3gvJbvXoDta/5zZoImdRsCXjyoecIUE2VFSRw3Tgl2x1U4ioJg+6GY88YHiSYY/EXw==",
+  "dgSpecHash": "we/LpkJW6WMwwzhmrQJpEYBdTlDGFkx1aOLy9Q8uZGLCbNyjl1wbIxT68M7e40MrPm+es+fzrzZH7urZwVsCog==",
   "success": true,
   "projectFilePath": "C:\\Users\\Guilger\\Documents\\Cursos-Pratica\\CursoDotNet3.1\\CommandAPI\\Commander\\Commander.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Guilger\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
+    "C:\\Users\\Guilger\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\Guilger\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Guilger\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\Guilger\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
