@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Commander.Dtos
 {
-    public class CommandCreateDto
+    public class CommandUpdateDto
     {  
         [Required] //os campos não podem ser nulos
         [MaxLength(250)]
